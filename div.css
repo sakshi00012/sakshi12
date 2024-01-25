@@ -1,0 +1,23 @@
+#aa{
+    background-color: grey;
+    height: 500px;
+    width: 400px;
+    text-align: center;
+    float: left;
+}
+.bb{
+height: 500px;
+width: 400px;
+background-color: lightslategray;
+float: left ;
+text-align: center;
+margin-left: 50px;
+}
+.cc{
+    height: 500px;
+    width: 400px;
+    background-color: rgb(112, 152, 192);
+    float: left ;
+    text-align: center;
+    margin-left: 50px;
+    }
